@@ -1,0 +1,27 @@
+.main{
+    background-color: black;
+
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.main #h,#m,#s{
+    color:red;
+    margin-top: 200px;
+    font-size: 36px;
+    font-family:sans-serif ;
+}
+.main .sub{
+    margin: 200px 0px;
+    font-size: 36px;
+}
+p{
+    border: 3px solid rgb(57, 13, 199);
+    width: 70px;
+    height: 50px;
+    margin: 0px 10px;
+    border-radius: 10px;
+    padding-top: 10px;
+    background-color: white;
+}
